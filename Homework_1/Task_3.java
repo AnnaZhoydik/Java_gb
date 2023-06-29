@@ -1,7 +1,7 @@
 package Homework_1;
 
 public class Task_3 {
-    static int calculator(int a, int b, String c) {
+    public static int calculator(int a, int b, String c) {
         int result = 0;
         switch (c) {
             case "+":
